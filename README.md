@@ -5,7 +5,7 @@
 For this project, the client wanted the code refactored to meet accessibility standards. I organized the CSS so that the styles cascaded in order of their appearance on the webpage, gave some titles to the HTML sections, added alt text to the images, and added new classes so that I could consolidate the code, removing any redundencies.
 
 ## Screenshot
-![screenshot](https://github.com/belle-witch/horiseon-screenshot.git)
+![screenshot](Develop/assets/images/Screenshot.png)
 
 
 ## License
